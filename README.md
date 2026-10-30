@@ -118,12 +118,12 @@ Real-world evidence cited (not used as Boston expectations): Nisingizwe MP, et a
 
 ## 30-second elevator pitch
 
-> Blood may be available — time may not be. Hospitals juggle unpredictable emergencies, scheduled transfusions and routine restocking, all competing for the same perishable inventory and the same vehicles. BLOODWING AI is one intelligent layer over the whole network. SENTINEL responds to emergencies after EMS assessment and human authorisation. PULSE prepares for scheduled transfusions before they become urgent. ORBIT consolidates routine deliveries into milk runs. It never assumes the drone is the answer: every recommendation passes hard safety constraints first and comes with a plain explanation. In our synthetic Boston simulation, measured on identical demand, it cuts delivery times against a ground-only baseline. Predict the need. Optimize the network. Deliver in time.
+> Blood may be available — time may not. Hospitals juggle unpredictable emergencies, scheduled transfusions and routine restocking, all competing for the same perishable inventory and the same vehicles. BLOODWING AI is one intelligent layer over the whole network. SENTINEL responds to emergencies after EMS assessment and human authorisation. PULSE prepares for scheduled transfusions before they become urgent. ORBIT consolidates routine deliveries into milk runs. It never assumes the drone is the answer: every recommendation passes hard safety constraints first and comes with a plain explanation. In our synthetic Boston simulation, measured on identical demand, it cuts delivery times against a ground-only baseline. Predict the need. Optimize the network. Deliver in time.
 
 ## Three-minute presenter script
 
 **0:00 – 0:25 · Problem** *(Pitch slide 1)*
-"Blood may be available. Time may not be. A trauma patient, a scheduled sickle-cell exchange and a routine restock all draw on the same perishable stock, spread across facilities, moved by a limited fleet. The question isn't only whether blood exists — it's whether the right, released, transportable unit reaches the right hospital in time."
+"Blood may be available. Time may not. A trauma patient, a scheduled sickle-cell exchange and a routine restock all draw on the same perishable stock, spread across facilities, moved by a limited fleet. The question isn't only whether blood exists — it's whether the right, released, transportable unit reaches the right hospital in time."
 
 **0:25 – 0:50 · Solution** *(slide 2)*
 "BLOODWING AI is one decision layer over the whole network: SENTINEL for emergencies, PULSE for scheduled transfusions, ORBIT for routine replenishment. They share one digital twin — one inventory, one fleet, one clock — so a decision in one system respects the commitments of the others."

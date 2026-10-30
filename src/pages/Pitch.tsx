@@ -59,7 +59,7 @@ export default function Pitch() {
             <h1 className="font-display text-[clamp(44px,7vw,108px)] font-bold leading-[0.95] tracking-[-0.03em]">
               Blood may be available.
               <br />
-              <span className="text-[#ff9aa2]">Time may not be.</span>
+              <span className="text-[#ff9aa2]">Time may not.</span>
             </h1>
             <p className="mt-8 max-w-3xl text-[clamp(16px,1.5vw,22px)] leading-relaxed text-mist">
               Emergency demand is uncertain. Inventory is perishable and spread across facilities. Recurring transfusions and routine replenishment compete for the same stock and the same vehicles. The question isn't only <i>whether</i> blood

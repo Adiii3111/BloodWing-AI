@@ -77,7 +77,7 @@ export default function Landing() {
           <div>
             <div className="eyebrow mb-3">The problem</div>
             <h2 className="font-display text-3xl font-semibold leading-tight md:text-4xl">
-              Blood may be available. <span className="text-[#ff9aa2]">Time may not be.</span>
+              Blood may be available. <span className="text-[#ff9aa2]">Time may not.</span>
             </h2>
             <p className="mt-4 text-[15px] leading-relaxed text-mist">
               Blood is critical and perishable. Demand arrives unpredictably — trauma, emergency surgery, obstetric haemorrhage — while stock is spread across facilities with different shelf lives, handling rules and compatibility
